@@ -4,16 +4,13 @@
 
 # Ipython Notebook Repository for LLama2 with Langchain Use Cases 
 
-This repository provides Ipython Notebook examples for how to use LLama2 in combination with Langchain. LLama2 is a leading-edge language model while Langchain is a state-of-the-art library for chaining together different language models to create more powerful and complex models. 
-
-These notebooks are designed for MacOS users with a focus on the performance optimization for Mac OS Ventura M1 16gb RAM, but can be adapted for other platforms.
-
+This repository provides Ipython Notebook examples for how to use LLama2 in combination with Langchain. LLama2 is recently released model by Meta. This notebook is prepared for the OpenNyAI Makerspace (https://makerspace.opennyai.org/). Given that GPT4 is difficult and expensive to access we have hosted a 70b llam2 model which works quite well.
 ---
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Notebooks](#notebooks)
+- [Notebook](#notebooks)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
@@ -54,17 +51,7 @@ pip install -r requirements.txt
 
 ## Notebooks
 
-Here are the notebooks you'll find in this repository:
-
-1. **Getting Started with LLama2 and Langchain.ipynb**: An introduction to using LLama2 and Langchain separately and then combining them.
-
-2. **Advanced Techniques with LLama2 and Langchain.ipynb**: A deeper dive into advanced features and techniques using LLama2 and Langchain.
-
-3. **Use Case - Text Generation.ipynb**: Demonstrates how to use LLama2 and Langchain for text generation tasks.
-
-4. **Use Case - Sentiment Analysis.ipynb**: Showcases how to use LLama2 and Langchain for sentiment analysis tasks.
-
-5. **Use Case - Machine Translation.ipynb**: Illustrates how to use LLama2 and Langchain for machine translation tasks.
+**Getting Started with LLama2 and Langchain.ipynb**: An introduction to using LLama2 and Langchain separately and then combining them. The model has to be hosted on one of the availabel GPUs. This one uses 70b parameter model hosted on OpenNyAI's cloud account, however similar code can be used when hosting a 7b or 13b model on device.
 
 ---
 
