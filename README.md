@@ -4,8 +4,9 @@
 
 # Ipython Notebook Repository for LLama2 with Langchain Use Cases 
 
-This repository provides Ipython Notebook examples for how to use LLama2 in combination with Langchain. LLama2 is recently released model by Meta. This notebook is prepared for the OpenNyAI Makerspace (https://makerspace.opennyai.org/). Given that GPT4 is difficult and expensive to access we have hosted a 70b llam2 model which works quite well.
 ---
+
+This repository provides Ipython Notebook examples for how to use LLama2 in combination with Langchain. LLama2 is recently released model by Meta. This notebook is prepared for the OpenNyAI Makerspace (https://makerspace.opennyai.org/). Given that GPT4 is difficult and expensive to access we have hosted a 70b llam2 model which works quite well.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
