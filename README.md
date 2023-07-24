@@ -31,8 +31,7 @@ This repository provides Ipython Notebook examples for how to use LLama2 in comb
 Clone the repository:
 
 ```
-git clone https://github.com/<your-github-username>/LLama2_Langchain_Notebooks.git
-cd LLama2_Langchain_Notebooks
+git clone https://github.com/OpenNyAI/llm_samples.git
 ```
 
 Create a new Python environment:
